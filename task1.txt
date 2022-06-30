@@ -1,0 +1,51 @@
+1 . Find Output of 10+20+"30";
+
+10 + 20 + "30" = 3030.
+
+2. Find Output of "10"+20+30;
+
+"10" + 20 + 30 = 102030.
+
+3. 10 == "10";
+
+output = 'true'.
+
+4. 20 === "20";
+
+Output = 'flase'.
+
+5. Advantages of Javascript?
+
+	* It can be fully integrated with HTML and CSS
+	* Javascript doesn't over-complicate things, simple things are done in a simple way.
+	* It is supported by all major browsers and it is enabled by default in those browsers.
+	* There are numerous frameworks written in Javascript like React, Angular, Vue, React Native, etc. which are used world-wide to develop seamless web 
+	   and mobile applications.
+	* Javascript is the only language in the world which offers a combination of these key features, this is what makes Javascript unique.
+
+6. For in and For each difference?
+
+	For in   - The for...in statements combo iterates (loops) over the properties of an object.
+	For each - There is also a "for-each" loop, which is used exclusively to loop through elements in an array.
+
+7. What is closure?
+
+	A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). 
+        In other words, a closure gives you access to an outer function's scope from an inner function. In JavaScript, closures are created every time a 
+        function is created, at function creation time.
+
+8.Write 5 math inbuild method?
+
+	math.round(7.7) = 8;
+	math.round(7.4) = 7;
+	math.floor(7.7) = 7;
+	math.ceil(7.7)  = 8;
+	math.sqrt(4)    = 2;
+	
+	a = [ 1 , 2 , 3 , 4 , 5];
+	math.max(a) = 5;
+
+	
+	a = [ 1 , 2 , 3 , 4 , 5];
+	math.min(a) = 1;
+
